@@ -12,7 +12,7 @@
  *     1.The length of the array is in range [1, 20,000].
  *     2.The range of numbers in the array is [-1000, 1000] and the range of the integer k is [-1e7, 1e7].
  */
-public class SubarraySumEquals {
+public class SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         int count = 0;
         for(int i = 0;i <= nums.length;i++) {
