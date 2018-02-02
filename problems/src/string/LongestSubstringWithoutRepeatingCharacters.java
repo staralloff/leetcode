@@ -3,7 +3,7 @@ import java.util.HashMap;
 /**
  * Created by Orion on 06/2017
  * From LeetCode 003
- *
+ * Description:
  * Given a string, find the length of the longest substring without repeating characters.
  *
  * Examples:

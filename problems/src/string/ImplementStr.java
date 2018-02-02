@@ -2,7 +2,7 @@
  * Created by Orion on 07/2017
  * From LeetCode 028
  * Description:
- *  Implement strStr().
+ * Implement strStr().
  *
  * Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
  *
