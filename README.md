@@ -40,4 +40,7 @@ My LeetCode solutions to some commom problems.
 
 - [Implement strStr()](problems/src/string/ImplementStr.java) (Easy)
 - [Longest Substring Without Repeating Characters](problems/src/string/LongestSubstringWithoutRepeatingCharacters.java) (Medium)
--
+
+#### [Tree](problems/src/tree)
+
+- [Path Sum](problems/src/tree/PathSum.java) (Easy) [Solution Report](problems/src/tree/PathSum.md)
