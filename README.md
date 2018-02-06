@@ -43,4 +43,4 @@ My LeetCode solutions to some commom problems.
 
 #### [Tree](problems/src/tree)
 
-- [Path Sum](problems/src/tree/PathSum.java) (Easy) [Solution Report](problems/src/tree/PathSum.md)
+- [Path Sum](problems/src/tree/PathSum.java) [Solution Report](problems/src/tree/PathSum.md) (Easy)
